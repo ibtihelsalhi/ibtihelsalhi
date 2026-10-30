@@ -6,28 +6,25 @@
 <a href="mailto:ibtihelsalhi54@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-0e7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://img.shields.io/badge/Open_to-Cybersecurity_roles-22d3ee?style=for-the-badge" alt="Open to work"/>
 
+<br/><br/>
+
+<img src="assets/ticker.svg" width="100%" alt="tools"/>
+
 </div>
 
 <br/>
 
-## About me
+<img src="assets/h-about.svg" width="100%" alt="About me"/>
 
-```yaml
-name: Ibtihel Salhi
-role: Cybersecurity Engineer
-degree: Engineering, Information Systems and Network Security (TEK-UP, 2026)
-focus:
-  - Linux and RHEL hardening
-  - SOC engineering, detection and incident response
-  - DevSecOps pipelines and security automation
-  - Cloud security on AWS and Azure
-languages: [Arabic, French, English, Spanish]
-looking_for: Cybersecurity Engineer | Systems, Networks and Automation
-```
+<img src="assets/radar.svg" width="100%" alt="Focus areas"/>
+
+Engineer in **Information Systems and Network Security** (TEK-UP, 2026). I build security that runs on its own: hardened systems, automated detection and response, security gates in CI/CD and cloud posture management.
+
+**Looking for:** Cybersecurity Engineer roles in systems, networks and automation · **Languages:** Arabic, French, English, Spanish
 
 <br/>
 
-## Tech stack
+<img src="assets/h-stack.svg" width="100%" alt="Tech stack"/>
 
 <div align="center">
 
@@ -57,13 +54,17 @@ looking_for: Cybersecurity Engineer | Systems, Networks and Automation
 
 <br/>
 
-## Featured project: Smartovate CyberAgent
+<img src="assets/h-featured.svg" width="100%" alt="Featured project"/>
+
+### Smartovate CyberAgent
 
 <sub>Final-year engineering project · Smartovate LTD · Jan to Sep 2026</sub>
 
 A security automation platform that collects findings from **GitHub, AWS and Azure**, turns them into one prioritized view and drives remediation through analyst-approved pull requests.
 
 <div align="center">
+<img src="assets/kpi.svg" alt="CyberAgent in numbers" width="100%"/>
+<br/>
 <img src="assets/flow.svg" alt="CyberAgent pipeline" width="100%"/>
 </div>
 
@@ -77,7 +78,7 @@ A security automation platform that collects findings from **GitHub, AWS and Azu
 
 <br/>
 
-## Projects
+<img src="assets/h-projects.svg" width="100%" alt="Projects"/>
 
 <table>
 <tr>
@@ -112,7 +113,7 @@ A security automation platform that collects findings from **GitHub, AWS and Azu
 
 <br/>
 
-## Experience
+<img src="assets/h-experience.svg" width="100%" alt="Experience"/>
 
 **Cybersecurity Engineering Intern** · Smartovate LTD · Remote<br/>
 <sub>Jan 2026 to Sep 2026 · security automation and cloud/application security platform</sub>
@@ -130,7 +131,7 @@ A security automation platform that collects findings from **GitHub, AWS and Azu
 
 <br/>
 
-## Education
+<img src="assets/h-education.svg" width="100%" alt="Education"/>
 
 **Engineering degree, Information Systems and Network Security** · TEK-UP University, Tunis<br/>
 <sub>2023 to 2026</sub>
